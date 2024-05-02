@@ -1,4 +1,2 @@
-最初の変更
-2回目の変更　
-Hello,world!
-こんにちは、世界！
+"Hello,world!" 
+"Hello,world!"
